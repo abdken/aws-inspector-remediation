@@ -3,7 +3,7 @@ inspector-remediation
 
 ## Dependencies
 - AWS account
-- Terraform 
+- Terraform ~> 4.11.0
 - python3.8
 
 
