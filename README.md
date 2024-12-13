@@ -1,5 +1,5 @@
 # aws-inspector-remediation
-inspector-remediation
+Security vulnerability assessment remediation using AWS Inspector, Security Hub, lambda, Sns, Terraform, cloud formation, and Python.
 
 ## Dependencies
 - AWS account
